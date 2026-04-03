@@ -1,6 +1,6 @@
 # Multimodal Fake News Detection with Explainable AI
 
-> B.Tech Final Year Project | AIML | 2 Research Papers
+
 
 A tri-stream deep learning system that detects fake news by jointly analyzing **text**, **images**, and **social propagation graphs** — with full XAI explanations for every prediction.
 
