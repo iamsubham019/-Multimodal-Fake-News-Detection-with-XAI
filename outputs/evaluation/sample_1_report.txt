@@ -1,0 +1,24 @@
+XAI Report — sample_1
+========================================
+
+Prediction : Fake
+Confidence : 100.00%
+Real prob  : 0.00%
+Fake prob  : 100.00%
+Text-Image Inconsistency Score: 0.0000
+
+Top influential tokens:
+  'Barack': 1.0000
+  'said': 0.8463
+  '(': 0.8459
+  'W': 0.7922
+  'Obama': 0.6799
+  'on': 0.6647
+  'says': 0.6616
+  'âĢ': 0.6421
+  'ľ': 0.6419
+  'Reuters': 0.6364
+
+Modality contributions:
+  Text: 94.20%
+  Image: 5.80%

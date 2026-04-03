@@ -1,0 +1,24 @@
+XAI Report — sample_0
+========================================
+
+Prediction : Fake
+Confidence : 99.75%
+Real prob  : 0.25%
+Fake prob  : 99.75%
+Text-Image Inconsistency Score: 0.0000
+
+Top influential tokens:
+  '': 1.0000
+  '': 0.9205
+  'Ċ': 0.8554
+  'ally': 0.8235
+  'f': 0.8220
+  'one': 0.8141
+  'Ċ': 0.7707
+  'under': 0.7670
+  'adding': 0.7498
+  'surfaced': 0.7469
+
+Modality contributions:
+  Text: 95.83%
+  Image: 4.17%

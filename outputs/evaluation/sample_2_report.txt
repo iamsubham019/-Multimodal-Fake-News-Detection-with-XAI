@@ -1,0 +1,24 @@
+XAI Report — sample_2
+========================================
+
+Prediction : Fake
+Confidence : 100.00%
+Real prob  : 0.00%
+Fake prob  : 100.00%
+Text-Image Inconsistency Score: 0.0000
+
+Top influential tokens:
+  'President': 1.0000
+  'Trump': 0.9225
+  '.': 0.6561
+  'day': 0.6170
+  'CNN': 0.5974
+  'Reuters': 0.5546
+  'he': 0.5339
+  'Donald': 0.5270
+  'as': 0.5126
+  'Ļ': 0.5106
+
+Modality contributions:
+  Text: 93.55%
+  Image: 6.45%
